@@ -10,7 +10,7 @@
 
 Science fair entry (Student Division) · 72nd Gangwon Special Self-Governing Province Science Fair (제72회 강원특별자치도과학전람회)
 
-Team KERAS · Kangwon Science High School — Kim Da-hun, Lee Do-hyun, Jang Jae-hyun · Advisor: Hong Ye-rim
+Team KERAS · Kangwon Science High School — Kim Da-hun, Lee Do-hyun, Jang Jae-hyeon · Advisor: Hong Ye-rim
 
 Repository: https://github.com/wkdwoguss/Keras_exhibition_project
 
@@ -171,5 +171,5 @@ Copyright 2026 KERAS. All rights reserved — use of this work is not permitted 
 
 ## Team
 
-Team KERAS, Kangwon Science High School — Kim Da-hun · Lee Do-hyun · Jang Jae-hyun. Advisor: Hong Ye-rim.
+Team KERAS, Kangwon Science High School — Kim Da-hun · Lee Do-hyun · Jang Jae-hyeon. Advisor: Hong Ye-rim.
 Science fair entry, 72nd Gangwon Special Self-Governing Province Science Fair.
