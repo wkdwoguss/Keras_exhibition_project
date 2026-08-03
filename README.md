@@ -1,9 +1,17 @@
 # KERAS — Automatic Commodity-Grade Classification of Apples and Carrots
 
+<p align="center">
+  <img src="docs/images/kshs-logo.png" alt="Kangwon Science High School logo" height="120">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="docs/images/keras-logo.png" alt="KERAS logo" height="120">
+</p>
+
 *A Study on Developing an Automatic Commodity-Grade Classification Algorithm for Apples and Carrots*
 
-Science fair entry (Student Division) · 72nd Gangwon Special Self-Governing Province Science Fair (제72회 강원특별자치도과학전람회)\n
-Team KERAS · Kangwon Science High School — Kim Da-hun, Lee Do-hyun, Jang Jae-hyun · Advisor: Hong Ye-rim\n
+Science fair entry (Student Division) · 72nd Gangwon Special Self-Governing Province Science Fair (제72회 강원특별자치도과학전람회)
+
+Team KERAS · Kangwon Science High School — Kim Da-hun, Lee Do-hyun, Jang Jae-hyun · Advisor: Hong Ye-rim
+
 Repository: https://github.com/wkdwoguss/Keras_exhibition_project
 
 ---
