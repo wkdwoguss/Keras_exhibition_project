@@ -8,7 +8,7 @@
 
 *A Study on Developing an Automatic Commodity-Grade Classification Algorithm for Apples and Carrots*
 
-Science fair entry (Student Division) · 72nd Gangwon Special Self-Governing Province Science Fair (제72회 강원특별자치도과학전람회)
+Science fair entry (Student Division) · 72nd Gangwon State Science Exhibition (제72회 강원특별자치도과학전람회)
 
 Team KERAS · Kangwon Science High School — Kim Da-hun, Lee Do-hyun, Jang Jae-hyeon · Advisor: Hong Ye-rim
 
@@ -172,4 +172,4 @@ Copyright 2026 KERAS. All rights reserved — use of this work is not permitted 
 ## Team
 
 Team KERAS, Kangwon Science High School — Kim Da-hun · Lee Do-hyun · Jang Jae-hyeon. Advisor: Hong Ye-rim.
-Science fair entry, 72nd Gangwon Special Self-Governing Province Science Fair.
+Science fair entry, 72nd Gangwon State Science Exhibition.
